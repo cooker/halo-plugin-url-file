@@ -1,4 +1,4 @@
-package run.halo.starter;
+package com.github.cooker.plugin;
 
 import org.pf4j.PluginWrapper;
 import org.springframework.stereotype.Component;
